@@ -1,5 +1,17 @@
+.xsession
 .idea
 *.iml
 node_modules
 .DS_Store
 target
+.cache**
+.ash_history
+.ICEauthority
+.Xauthority
+.gstreamer-0.10
+.gtkrc-2.0
+.local
+.pki
+.xsession-errors
+Desktop
+

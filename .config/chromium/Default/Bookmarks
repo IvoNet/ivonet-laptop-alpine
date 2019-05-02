@@ -1,0 +1,39 @@
+{
+   "checksum": "781aff80414193e2997b3ca5031d476a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13201262644390753",
+            "id": "5",
+            "meta_info": {
+               "last_visited_desktop": "13201262883869578"
+            },
+            "name": "Sign in to GitHub · GitHub",
+            "type": "url",
+            "url": "https://github.com/login?return_to=%2FIvoNet%2Fivonet-laptop-alpine"
+         } ],
+         "date_added": "13201256153412929",
+         "date_modified": "13201262644390753",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13201256153412951",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13201256153412973",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
